@@ -1,5 +1,6 @@
 # Plano: reservation-tools
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - Service de reservas orquestra repositórios; as funções expostas ao ADK apenas

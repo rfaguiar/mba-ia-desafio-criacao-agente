@@ -1,5 +1,6 @@
 # Especificação: session-policy — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Fazer da sessão a fonte confiável de identidade. Toda operação de condomínio

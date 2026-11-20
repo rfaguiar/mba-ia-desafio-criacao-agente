@@ -1,8 +1,9 @@
 # Tarefas: session-policy
 
+Status: implementado e verificado em 2026-11-20
 Pré-requisito: `persistence`.
 
-- [ ] **S01 — Vincular apartamento imutável**
+- [x] **S01 — Vincular apartamento imutável**
   - Commit: `feat: bind immutable apartment to session`
   - Arquivos: `session_identity.py`, testes.
   - Implementar: resolver `session_id`, rejeitar sessão inexistente e criar
@@ -10,14 +11,14 @@ Pré-requisito: `persistence`.
   - Aceitação: mensagens não alteram apartamento.
   - Verificar: `uv run pytest tests/security/test_session_identity.py`.
 
-- [ ] **S02 — Delimitar repositórios à sessão**
+- [x] **S02 — Delimitar repositórios à sessão**
   - Commit: `feat: scope domain repositories by session`
   - Arquivos: interfaces/repositórios, testes de cancelamento fictício.
   - Implementar: consultas recebem `SessionIdentity`.
   - Aceitação: zero linhas afetadas em apartamento alheio.
   - Verificar: testes parametrizados 101/302.
 
-- [ ] **S03 — Fechar saídas de tools**
+- [x] **S03 — Fechar saídas de tools**
   - Commit: `feat: filter privacy-sensitive tool outputs`
   - Arquivos: `output_policy.py`, DTOs, auditoria.
   - Aceitação: disponibilidade retorna apenas livre/ocupado; erro não revela
@@ -26,5 +27,5 @@ Pré-requisito: `persistence`.
 
 ## Saída do módulo
 
-- [ ] Nenhuma interface futura de tool exige apartamento do modelo.
-- [ ] Dados de terceiro não entram em resultado ou evento.
+- [x] Nenhuma interface futura de tool exige apartamento do modelo.
+- [x] Dados de terceiro não entram em resultado ou evento.

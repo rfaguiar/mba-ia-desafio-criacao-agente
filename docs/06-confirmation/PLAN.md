@@ -1,5 +1,6 @@
 # Plano: confirmation
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - Uma confirmação não é apenas um registro: aponta para o evento/identificador

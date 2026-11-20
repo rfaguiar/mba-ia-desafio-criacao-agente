@@ -1,5 +1,6 @@
 # Especificação: agent-runtime — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Executar um agente principal com pelo menos dois especialistas, usando tools

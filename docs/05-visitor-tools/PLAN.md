@@ -1,5 +1,6 @@
 # Plano: visitor-tools
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - Especialista usa service/tool e nunca toca visitante diretamente.

@@ -1,5 +1,6 @@
 # Especificação: regulation-retrieval — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Responder dúvidas sobre o regulamento consultando somente as passagens

@@ -1,5 +1,6 @@
 # Plano: api-contract
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - FastAPI com lifespan que inicializa migração, Runner e serviços.

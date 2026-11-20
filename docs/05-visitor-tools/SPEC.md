@@ -1,5 +1,6 @@
 # Especificação: visitor-tools — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Controlar autorizações de entrada exclusivamente por tools persistentes,

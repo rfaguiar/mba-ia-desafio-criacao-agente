@@ -1,7 +1,6 @@
 # Plano: foundation
 
-Status: aprovado para implementação após review do conjunto
-
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - Fixar `requires-python = ">=3.12"` e ADK `2.9.1` sem range.

@@ -1,5 +1,6 @@
 # Especificação: foundation — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Criar uma base Python reproduzível, segura e executável em ambiente limpo. Esta

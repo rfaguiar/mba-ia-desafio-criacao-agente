@@ -1,5 +1,6 @@
 # Especificação: acceptance — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Comprovar de ponta a ponta os critérios do README, consolidar a documentação de

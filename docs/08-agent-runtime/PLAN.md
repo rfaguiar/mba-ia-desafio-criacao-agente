@@ -1,5 +1,6 @@
 # Plano: agent-runtime
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - `root_agent` coordena e usa especialistas como `AgentTool` ou subagentes

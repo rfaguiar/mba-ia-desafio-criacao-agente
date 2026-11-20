@@ -1,5 +1,6 @@
 # Plano: session-policy
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - O `ToolContext` é preenchido pelo runtime com `session_id`.

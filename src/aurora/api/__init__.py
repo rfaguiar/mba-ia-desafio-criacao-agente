@@ -1,0 +1,2 @@
+"""API HTTP do assistente."""
+

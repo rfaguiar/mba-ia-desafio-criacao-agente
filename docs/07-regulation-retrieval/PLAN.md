@@ -1,5 +1,6 @@
 # Plano: regulation-retrieval
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - Parser estrutural por `## Capítulo`, artigos e parágrafos.

@@ -1,5 +1,6 @@
 # Especificação: confirmation — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Implementar aprovação humana fora do diálogo, durável e idempotente, retomando

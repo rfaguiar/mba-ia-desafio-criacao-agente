@@ -1,5 +1,6 @@
 # Plano: acceptance
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - Um cenário automatizado usa subprocesso real da API e banco temporário.

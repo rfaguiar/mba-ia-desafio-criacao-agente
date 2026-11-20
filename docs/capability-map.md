@@ -1,6 +1,6 @@
 # Mapa de capacidades: Assistente do Residencial Aurora
 
-Status: aprovado em 2026-11-20
+Status: implementado e verificado em 2026-11-20
 
 ## Premissas
 

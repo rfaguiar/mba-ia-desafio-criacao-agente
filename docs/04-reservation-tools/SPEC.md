@@ -1,5 +1,6 @@
 # Especificação: reservation-tools — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Fornecer as únicas operações de leitura e escrita de reservas, com regras

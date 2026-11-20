@@ -1,5 +1,6 @@
 # Plano: persistence
 
+Status: implementado e verificado em 2026-11-20
 ## Decisões
 
 - Usar um banco operacional SQLite e SQLAlchemy assíncrona.

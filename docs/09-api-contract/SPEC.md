@@ -1,5 +1,6 @@
 # Especificação: api-contract — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Expor o contrato HTTP JSON exatamente como descrito no `README.md`, mantendo

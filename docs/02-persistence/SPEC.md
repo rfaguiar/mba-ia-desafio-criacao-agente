@@ -1,5 +1,6 @@
 # Especificação: persistence — V1
 
+Status: implementado e verificado em 2026-11-20
 ## Objetivo
 
 Persistir todo estado mutável em SQLite, com transações e restrições no banco,
