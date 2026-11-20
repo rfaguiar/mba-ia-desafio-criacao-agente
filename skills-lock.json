@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "skills": {
+    "code-review": {
+      "source": "mattpocock/skills",
+      "commit": "abeeaf95660ba9e8b7c753eb38f441ca707a8823",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/code-review/SKILL.md",
+      "computedHash": "ce86b40a3d1648a0018b712f0c70704e6c2316b2a9b9e915ab116916a31273dc"
+    },
+    "git-workflow-and-versioning": {
+      "source": "addyosmani/agent-skills",
+      "commit": "8c99fa36d90068c82d547f7c12a9d67a3e95f4ee",
+      "sourceType": "github",
+      "skillPath": "skills/git-workflow-and-versioning/SKILL.md",
+      "computedHash": "860b88bf82d823eaed15b9b9fa9ce4273f94c7bdcf3aeaa3e6649eb578763d4b"
+    },
+    "google-agents-cli-adk-code": {
+      "source": "google/agents-cli",
+      "commit": "2fa159a803aceec3b4df808901e53a08a6f1fb2a",
+      "sourceType": "github",
+      "skillPath": "skills/google-agents-cli-adk-code/SKILL.md",
+      "computedHash": "551a2d5f66e9e4edb6db73edbd72fd576f052f710a7d9a5b3bd015e8076f4769"
+    },
+    "improve-codebase-architecture": {
+      "source": "mattpocock/skills",
+      "commit": "abeeaf95660ba9e8b7c753eb38f441ca707a8823",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "computedHash": "f0820b18426a7d9a6c823a890988ba0ac70bf0fd596d30d7ef07c88558728c23"
+    },
+    "llm-app-patterns": {
+      "source": "sickn33/agentic-awesome-skills",
+      "commit": "4a52ab5ef117bdce2c6ba8d87dd64df0c840dfea",
+      "sourceType": "github",
+      "skillPath": "skills/llm-app-patterns/SKILL.md",
+      "computedHash": "6031a3b83f237e980d766ed6303a5f329f7ca5a1966e65bdefed8bf3ce8cbf21"
+    },
+    "spec-driven-development": {
+      "source": "addyosmani/agent-skills",
+      "commit": "8c99fa36d90068c82d547f7c12a9d67a3e95f4ee",
+      "sourceType": "github",
+      "skillPath": "skills/spec-driven-development/SKILL.md",
+      "computedHash": "e560111a2823150a1be6d5a264cd3449dbdb9c67de011eea29204b4dee438e58"
+    },
+    "tdd": {
+      "source": "mattpocock/skills",
+      "commit": "abeeaf95660ba9e8b7c753eb38f441ca707a8823",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/tdd/SKILL.md",
+      "computedHash": "e3e0f78ff1c2d52ffefa0378baa1e80e129d359288cf9a56f4e59afcd2aac86c"
+    },
+    "verification-before-completion": {
+      "source": "obra/superpowers",
+      "commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+      "sourceType": "github",
+      "skillPath": "skills/verification-before-completion/SKILL.md",
+      "computedHash": "09b0e3a4689c1c38a3b8fc6ef57a1d4165aa33c0013d546dbde9dd348941a319"
+    }
+  }
+}
